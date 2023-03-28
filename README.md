@@ -1,6 +1,8 @@
 # 💫 About Me:
 👋 Hey there! I'm Carlos Torres, a passionate and creative Frontend and Mobile Developer currently making an impact at AK Digital. My expertise lies in building seamless user experiences using React and TypeScript, and I'm currently expanding my skill set by diving into the fascinating world of ThreeJS. Feel free to explore my repositories to see some of the exciting projects I've been working on! 😄
 
+## 🤩 My Portafolio:
+Don't miss out on checking my work at [Portafolio](https://carlostorres.dev) ! You're sure to love the projects I've showcased there. 😍
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/carlos-torres-valle) 

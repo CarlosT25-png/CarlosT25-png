@@ -6,8 +6,6 @@
 
 ###
 
----
-
 ## 🛠️ Hardware Engineering Toolkit
 
 ### **HDLs & Verification**
@@ -26,13 +24,11 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
----
-
-
 ###
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app?username=CarlosT25-png&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=CarlosT25-png&theme=dark&hide_border=false" height"200" />
 </div>
 
@@ -42,6 +38,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CarlosT25-png/CarlosT25-png/output/pacman-contribution-graph-dark.svg">
+  <br />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CarlosT25-png/CarlosT25-png/output/pacman-contribution-graph.svg">
 </picture>
 

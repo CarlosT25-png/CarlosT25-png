@@ -1,25 +1,66 @@
-# 💫 About Me:
-👋 Hey there! I'm Carlos Torres, a passionate and creative Frontend and Mobile Developer currently making an impact at AK Digital. My expertise lies in building seamless user experiences using React and TypeScript, and I'm currently expanding my skill set by diving into the fascinating world of ThreeJS. Feel free to explore my repositories to see some of the exciting projects I've been working on! 😄
+<h1 align="center">Welcome to my GitHub Profile! 👋</h1>
 
-## 🤩 My Portafolio:
-Don't miss out on checking my work at [Portafolio](https://carlostorres.dev) ! You're sure to love the projects I've showcased there. 😍
+###
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/carlos-torres-valle) 
+<p align="left">👋 Hey, I'm Carlos! I'm a Computer Engineering Master's student at UTSA passionate about computer architecture and digital design.<br><br>I'm currently focused on two key projects: building a single-cycle RISC-V processor and verifying a UART module with a complete testbench in SystemVerilog and UVM.<br><br>I'm actively seeking a Hardware Engineering or Design Verification internship for Summer 2026. 🚀</p>
 
-# 💻 Tech Stack:
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)! ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Green Sock](https://img.shields.io/badge/green%20sock-88CE02?style=for-the-badge&logo=greensock&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white) ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=CarlosT25-png&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosT25-png&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+###
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=CarlosT25-png&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=cylinder&height=10&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+###
 
 ---
-[![](https://visitcount.itsvg.in/api?id=CarlosT25-png&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🛠️ Hardware Engineering Toolkit
+
+### **HDLs & Verification**
+![Verilog](https://img.shields.io/badge/Verilog-1C5A9A?style=for-the-badge&logo=verilog&logoColor=white)
+![SystemVerilog](https://img.shields.io/badge/SystemVerilog-2E8B57?style=for-the-badge&logo=systemverilog&logoColor=white)
+![UVM](https://img.shields.io/badge/UVM-8A2BE2?style=for-the-badge&logo=uvm&logoColor=white)
+
+### **EDA Tools & Simulators**
+![Vivado](https://img.shields.io/badge/AMD_Vivado-F8981D?style=for-the-badge&logo=amd&logoColor=white)
+![Cadence](https://img.shields.io/badge/Cadence_Virtuoso-003366?style=for-the-badge&logo=cadence-design-systems&logoColor=white)
+![QuestaSim / ModelSim](https://img.shields.io/badge/QuestaSim-00A398?style=for-the-badge&logo=siemens&logoColor=white)
+
+### **Languages & Architectures**
+![RISC-V](https://img.shields.io/badge/RISC--V-2C5697?style=for-the-badge&logo=risc-v&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=cylinder&height=10&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=CarlosT25-png&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=CarlosT25-png&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
+
+###
+
+<br clear="both">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CarlosT25-png/CarlosT25-png/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CarlosT25-png/CarlosT25-png/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/CarlosT25-png/CarlosT25-png/output/pacman-contribution-graph.svg">
+</picture>
+
+###

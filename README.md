@@ -49,7 +49,7 @@
 ###
 
 <div align="center">
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=CarlosT25-png&theme=dark&hide_border=false)<br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CarlosT25-png&theme=dark&hide_border=false" height"200" />
   <img src="https://github-profile-trophy.vercel.app?username=CarlosT25-png&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 

@@ -6,12 +6,6 @@
 
 ###
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=cylinder&height=10&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
-
-###
-
 ---
 
 ## 🛠️ Hardware Engineering Toolkit
@@ -34,17 +28,6 @@
 
 ---
 
-###
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=cylinder&height=10&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
-
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/carlos-torres-valle/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /></a>
-</div>
 
 ###
 
@@ -62,5 +45,11 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CarlosT25-png/CarlosT25-png/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/CarlosT25-png/CarlosT25-png/output/pacman-contribution-graph.svg">
 </picture>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/carlos-torres-valle/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /></a>
+</div>
 
 ###

@@ -3,15 +3,15 @@
 ###
 
 <p align="left">
-  👋 Hey, I'm Carlos! I'm an Embedded Software Engineer and Computer Engineering Master's student at UTSA, specializing in bare-metal systems, hardware-software co-design, and AI hardware acceleration.<br><br>
-  🔭 <b>Currently working on:</b> Architecting software systems as a Graduate Research Assistant at UTSA, developing strict-timing flight control systems for an autonomous UAV (NASA Rover Challenge), and engineering a custom RISC-V architectural simulator in C++.<br><br>
-  ⚡ <b>Recent highlights:</b> Built an AI Hardware Accelerator on an MSP430 reducing latency by 17%, engineered automated IT workflows at Meta, and developed a smart access IoT system utilizing an ESP32 and RFID.<br><br>
-  🚀 <b>Status:</b> Actively seeking Embedded Software, Firmware, or Hardware Engineering roles/internships.
+  Hey, I'm Carlos! I'm an Embedded Software Engineer and Computer Engineering Master's student at UTSA, specializing in bare-metal systems, hardware-software co-design, and AI hardware acceleration.<br><br>
+  <b>Currently working on:</b> Architecting software systems as a Graduate Research Assistant at UTSA, developing strict-timing flight control systems for an autonomous UAV (NASA Rover Challenge), and engineering a custom RISC-V architectural simulator in C++.<br><br>
+  <b>Recent highlights:</b> Built an AI Hardware Accelerator on an MSP430 reducing latency by 17%, engineered automated IT workflows at Meta, and developed a smart access IoT system utilizing an ESP32 and RFID.<br><br>
+  <b>Status:</b> Actively seeking Embedded Software, Firmware, or Hardware Engineering roles/internships.
 </p>
 
 ###
 
-## 🛠️ Embedded Systems & Hardware Toolkit
+## Embedded Systems & Hardware Toolkit
 
 ### **Languages & Architectures**
 ![C](https://img.shields.io/badge/c-%23A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white)
